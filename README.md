@@ -1,5 +1,16 @@
 ## Hi there 👋
+**Hello, and welcome to my github profile!**
+Here are some infos about my system:
+- OS: Arch Linux BTW
+- Compositor: Hyprland
+- WM: Hyprland
+- Bar: Waybar
+- Applauncher: Wofi
 
+#
+
+# My projects
+- I'm currently creating my own dotfiles for my OS
 <!--
 **unixkiwi/unixkiwi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
