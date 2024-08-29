@@ -1,5 +1,6 @@
 ## Hi there 👋
 **Hello, and welcome to my github profile!**
+# I will switch to debian for specs look into my bspwm-dotfiles
 Here are some infos about my system:
 - OS: Arch Linux BTW
 - Compositor: Hyprland
