@@ -1,4 +1,4 @@
-## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 < coders/ > 👋
+## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 < coders /> 👋
 **Welcome to my github profile!**<br/>
 I'm a student and just another GNU+Linux user interested in coding and FOSS. _I use Arch BTW._<br/>
 My main interest is building Android apps using Flutter, but I am also interested in learning Jetpack Compose for an even more native Android experience.
