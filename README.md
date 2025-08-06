@@ -1,6 +1,6 @@
 ## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 < _coders_ /> 👋
 **Welcome to my github profile!**<br/>
-I'm a student and just another GNU+Linux user with an interest in coding and FOSS. _I use Arch BTW._<br/>
+I'm a student from Germany and just another GNU+Linux user with an interest in coding and FOSS. _I use Arch BTW._<br/>
 I'm primarily interested in developing Android apps with Flutter, but I am also interested in learning Jetpack Compose for an even more native Android experience.
 
 ### 💻 Tech Stack:
