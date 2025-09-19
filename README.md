@@ -1,4 +1,4 @@
-## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 < _coders_ /> 👋
+## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 < _coders_ /> 👋 💻
 **Welcome to my github profile!**<br/>
 I'm a student from Germany and just another GNU+Linux user with an interest in coding and FOSS. _I use Arch BTW._<br/>
 I'm primarily interested in developing Android apps with Flutter and in my free-time I also tinker around with my Linux system.
