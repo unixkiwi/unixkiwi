@@ -9,6 +9,9 @@ I'm primarily interested in developing Android apps with Flutter and in my free-
 ![](https://github-readme-stats.vercel.app/api?username=unixkiwi&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=unixkiwi&theme=github_dark_dimmed&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=unixkiwi&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+<!-- See https://github.com/jstrieb/github-stats -->
+![](https://raw.githubusercontent.com/unixkiwi/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/unxikiwi/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 #### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=unixkiwi&limit=5&theme=dark&combine_all_yearly_contributions=true)
