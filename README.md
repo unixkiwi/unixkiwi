@@ -10,10 +10,10 @@ I'm primarily interested in developing Android apps and in my free-time I also t
 ![](https://ghstats.dev/api/card?username=unixkiwi)
 
 <!-- See https://github.com/jstrieb/github-stats -->
-![](https://raw.githubusercontent.com/unixkiwi/github-stats/master/generated/overview.svg)<br />
+![](https://raw.githubusercontent.com/unixkiwi/github-stats/master/generated/overview.svg#gh-dark-mode-only)<br />
 
 #### 🌐 Languages
 <!-- See https://github.com/jstrieb/github-stats -->
-![](https://raw.githubusercontent.com/unixkiwi/github-stats/master/generated/languages.svg)
+![](https://raw.githubusercontent.com/unixkiwi/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 <!-- Created with GPRM and edited by hand ( https://gprm.itsvg.in ) -->
